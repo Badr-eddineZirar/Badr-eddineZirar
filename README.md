@@ -41,7 +41,7 @@
 <h3 align="left">Frontend Libraries & Frameworks</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--angular.png" alt="Angular" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--angular-icon.png" alt="Angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
