@@ -23,94 +23,126 @@ I enjoy creating applications and designing creative interfaces using tools like
     <img align="center" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--google-gmail.png" alt="Email" height="40" width="50" />
   </a>
 
-
 </div>
+ <p>
+          <img src="https://komarev.com/ghpvc/?username=Badr-eddineZirar&style=flat" />
+        </p>
+        <p>⚡ <b>Fun fact:</b> I am funny 😅</p>
 
-
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Badr-eddineZirar&label=Profile%20views&color=0e75b6&style=flat" alt="Badr-eddineZirar" />
-</p>
-
-
-- ⚡ Fun fact **I am funny😅**
-
-
-<h3 align="left">Programming Languages</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="70" height="70"/>
-</p>
-
-<h3 align="left">Markup & Styling</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="70" height="70"/>
-</p>
-
-<h3 align="left">Backend Frameworks</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65"/>
-  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/symfony_logo.png" width="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="65"/>
-</p>
-
-
-
-<h3 align="left">Frontend Libraries & Frameworks</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--angular-icon.png" alt="Angular" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="70" height="70"/>
-</p>
-
-<h3 align="left">Java Technologies</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/jakartaEE_logo.png" alt="Jakarta EE" width="80" height="80"/>
-</p>
-
-<h3 align="left">Databases</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/sqlite_logo.png" alt="SQLite" width="70" height="70"/>
+<table width="100%" cellpadding="10" cellspacing="0" style="border-spacing:0;">
   
-</p>
+  <tr>
+    <!-- COLONNE GAUCHE : TEXTE + TOOLS -->
+    <td width="70%" valign="top">
+      <div align="center">
+        <!-- Profile views -->
+        <!-- Programming Languages -->
+        <h3>Programming Languages</h3>
+        <p>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+        </p>
+        <!-- Markup & Styling -->
+        <h3>Markup & Styling</h3>
+        <p>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+        </p>
+        <!-- Backend Frameworks -->
+        <h3>Backend Frameworks</h3>
+        <p>
+          <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/symfony_logo.png"/>
+          <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+        </p>
+        <!-- Frontend Libraries -->
+        <h3>Frontend Libraries & Frameworks</h3>
+        <p>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--angular-icon.png"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
+        </p>
+        <!-- Java Technologies -->
+        <h3>Java Technologies</h3>
+        <p>
+          <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/jakartaEE_logo.png"/>
+        </p>
+        <!-- Databases -->
+        <h3>Databases</h3>
+        <p>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/sqlite_logo.png"/>
+        </p>
+        <!-- NoSQL -->
+        <h3>NoSQL Databases</h3>
+        <p>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchdb/couchdb-original.svg"/>
+        </p>
+        <!-- Architectures & Standards -->
+        <h3>Architectures & Standards</h3>
+        <p>
+          <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/mvc_logo.png"/>
+          <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/api_rest_logo.png"/>
+          <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logo_micorservice.png"/>
+        </p>
+        <!-- DevOps & Tools -->
+        <h3>DevOps & Tools</h3>
+        <p>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--github-icon.png"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"/>
+          <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--sonarqube.png"/>
+        </p>
+        <!-- Design & Methodologies -->
+        <h3>Design & Methodologies</h3>
+        <p>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
+          <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/canva_logo.png"/>
+          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"/>
+        </p>
+      </div>
+    </td>
+    <!-- COLONNE DROITE : GIFs -->
+    <td width="30%" align="center" valign="top">
+       <h3>Operating Systems</h3>
+      <p>
+         <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+         <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+      </p>
+      <h3>IDE</h3>
+       <p> 
+        <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+        <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
+        <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
+      </p>
+       <p>
+         <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+         <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+      </p>
+      <h3>API Tools</h3>
+      <p>
+         <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+         <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+      </p>
+      <img width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+      <br><br>
+      <img width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDN3azB1ZjgwN3QyeXJxYXJmcW5yNHk3OWk3czJrbjN1NGFyamc4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"/>
+    </td>
 
-<h3 align="left">NoSQL Databases</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchdb/couchdb-original.svg" alt="CouchDB" width="70" height="70"/>
-</p>
+  </tr>
+</table>
 
-<h3 align="left">Architectures & Standards</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/mvc_logo.png" alt="MVC" width="90" height="90"/>
-  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/api_rest_logo.png" alt="REST" width="90" height="90"/>
-  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logo_micorservice.png" alt="Microservice" width="90" height="90"/>
-</p>
 
-<h3 align="left">DevOps & Tools</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--github-icon.png" alt="GitHub" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--sonarqube.png" alt="sonarqube" width="100" height="100"/> 
-</p>
 
-<h3 align="left">Design & Methodologies</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/canva_logo.png" alt="Canva" width="100" height="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Agile" width="70" height="70"/>
-</p>
+
+
 
