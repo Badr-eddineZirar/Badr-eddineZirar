@@ -10,6 +10,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9500&background=00000000&vCenter=true&width=500&lines=Frontend+%7C+Backend+Web+Developer;Principles:+SOLID+%26+Design+Patterns" alt="Typing SVG" />
 </a>
 
+<h3 align="center">👨‍💻 About me:</h3>
+<p align="center">I am a final-year Software Engineering student from Morocco, building robust backends with Java/Spring & PHP/Symfony and dynamic frontends with React.  
+I enjoy creating applications and designing creative interfaces using tools like Figma.
+</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/badr-eddine-zirar-1313701b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="40" width="50" /></a>
