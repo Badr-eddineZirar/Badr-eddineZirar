@@ -1,4 +1,4 @@
-![logo](https://github.com/Badr-eddineZirar/Badr-eddineZirar/main/Background_badr.png)
+![logo](https://github.com/Badr-eddineZirar/Badr-eddineZirar/main/Background_Badr.png)
 <h1 align="center">Hi 👋, I'm Badr Eddine Zirar</h1>
 <h3 align="center">A passionate Web Developer from Morocco</h3>
 
