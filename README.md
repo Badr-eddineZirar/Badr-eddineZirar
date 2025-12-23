@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/badr-eddine-zirar-1313701b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="40" width="50" /></a>
 <a href="https://www.instagram.com/bdiro_zirar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="40" width="50" /></a>
  <a href="mailto:badreddinezirar@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--google-gmail.png" alt="Email" height="40" width="50" />
   </a>
 
 
