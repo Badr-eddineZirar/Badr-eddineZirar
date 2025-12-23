@@ -32,7 +32,7 @@
 <h3 align="left">Backend Frameworks</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/symfony_logo.png" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
 </p>
 
