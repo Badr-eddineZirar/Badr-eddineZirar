@@ -56,6 +56,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/sqlite_logo.png" alt="SQLite" width="40" height="40"/>
   
 </p>
 
@@ -67,8 +68,8 @@
 
 <h3 align="left">Architectures & Standards</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mvc/mvc-original.svg" alt="MVC" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg" alt="REST" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/mvc_logo.png" alt="MVC" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/api_rest_logo.png" alt="REST" width="50" height="50"/>
 </p>
 
 <h3 align="left">DevOps & Tools</h3>
