@@ -141,6 +141,11 @@ I enjoy creating applications and designing creative interfaces using tools like
   </tr>
 </table>
 
+![](https://github-readme-stats.vercel.app/api?username=Badr-eddineZirar&theme=default_repocard&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Badr-eddineZirar&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Badr-eddineZirar&theme=radical&layout=compact)
+
+
 
 
 
