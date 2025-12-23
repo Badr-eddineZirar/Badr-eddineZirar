@@ -47,7 +47,7 @@
 
 <h3 align="left">Java Technologies</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Jakarta EE" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/jakartaEE_logo.png" alt="Jakarta EE" width="70" height="70"/>
 </p>
 
 <h3 align="left">Databases</h3>
@@ -72,10 +72,12 @@
 <h3 align="left">DevOps & Tools</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--github-icon.png" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--sonarqube.png" alt="sonarqube" width="90" height="90"/>
+  
 </p>
 
 <h3 align="left">Design & Methodologies</h3>
