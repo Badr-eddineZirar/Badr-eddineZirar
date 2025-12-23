@@ -131,11 +131,11 @@ I enjoy creating applications and designing creative interfaces using tools like
       <h3>API Tools</h3>
       <p>
          <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-         <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+         <img width="100" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/apidog.png" />
       </p>
-      <img width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-      <br><br>
       <img width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDN3azB1ZjgwN3QyeXJxYXJmcW5yNHk3OWk3czJrbjN1NGFyamc4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"/>
+      <br><br>
+      <img width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGMyOG83M3V6NzRybGEzZ3A2ZGJscXpnampzaWk3ZTZpajU5bXFsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif"/>
     </td>
 
   </tr>
