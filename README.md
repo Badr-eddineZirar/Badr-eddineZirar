@@ -42,7 +42,7 @@ I enjoy creating applications and designing creative interfaces using tools like
           <img width="65" alt="image" src="https://github.com/user-attachments/assets/5038e361-29b3-4911-9281-8dad3f2ffc1b" />
           <img width="65" alt="image" src="https://github.com/user-attachments/assets/2c598f96-1a60-4d60-bd9c-fa80341fba79" />
           <img width="65" alt="image" src="https://github.com/user-attachments/assets/01017215-6668-47f6-85d6-7941fda72941" />
-          <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/7b7b2045-301d-49cf-abc8-53030705d0e0" />
+          <img width="65"  alt="image" src="https://github.com/user-attachments/assets/7b7b2045-301d-49cf-abc8-53030705d0e0" />
           <img width="65"  alt="image" src="https://github.com/user-attachments/assets/7dbe2464-a17f-4079-b51d-e757cbf5b08e" />
         </p>
         <!-- Markup & Styling -->
@@ -95,19 +95,19 @@ I enjoy creating applications and designing creative interfaces using tools like
         <!-- DevOps & Tools -->
         <h3>DevOps & Tools</h3>
         <p>
-          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-          <img width="65" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--github-icon.png"/>
-          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"/>
-          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"/>
+          <img width="65" alt="image" src="https://github.com/user-attachments/assets/37729423-6f1d-41d9-a1b1-b18b27014128" />
+          <img width="65" alt="image" src="https://github.com/user-attachments/assets/c8e92891-ca2b-412c-8dbc-617876402ae1" />
+          <img width="65" alt="image" src="https://github.com/user-attachments/assets/60989bc1-ed87-47f6-b7e6-12b45391809b" />
+          <img width="65" alt="image" src="https://github.com/user-attachments/assets/8fcb8c9c-db17-4491-b352-e0caf43c4fdb" />
+          <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d6619fcd-2d51-4c2b-a740-852d69b90038" />
           <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--sonarqube.png"/>
         </p>
         <!-- Design & Methodologies -->
         <h3>Design & Methodologies</h3>
         <p>
-          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
-          <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/canva_logo.png"/>
-          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"/>
+          <img width="65" alt="image" src="https://github.com/user-attachments/assets/bc0b45f1-7460-45ea-9523-ca015e87e540" />
+          <img width="65" alt="image" src="https://github.com/user-attachments/assets/679f6d4b-94c3-4e92-8b65-b1fafdc199ba" />
+          <img width="65" alt="image" src="https://github.com/user-attachments/assets/ffc314c9-3727-4388-98c1-9c9af1146d72" />
         </p>
       </div>
     </td>
