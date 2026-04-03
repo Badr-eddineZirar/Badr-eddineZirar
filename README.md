@@ -39,11 +39,11 @@ I enjoy creating applications and designing creative interfaces using tools like
         <!-- Programming Languages -->
         <h3>Programming Languages</h3>
         <p>
-          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-          <img width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+          <img width="65" alt="image" src="https://github.com/user-attachments/assets/5038e361-29b3-4911-9281-8dad3f2ffc1b" />
+          <img width="65" alt="image" src="https://github.com/user-attachments/assets/2c598f96-1a60-4d60-bd9c-fa80341fba79" />
+          <img width="65" alt="image" src="https://github.com/user-attachments/assets/01017215-6668-47f6-85d6-7941fda72941" />
+          <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/7b7b2045-301d-49cf-abc8-53030705d0e0" />
+          <img width="65"  alt="image" src="https://github.com/user-attachments/assets/7dbe2464-a17f-4079-b51d-e757cbf5b08e" />
         </p>
         <!-- Markup & Styling -->
         <h3>Markup & Styling</h3>
