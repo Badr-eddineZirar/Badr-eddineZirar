@@ -99,7 +99,7 @@ I enjoy creating applications and designing creative interfaces using tools like
           <img width="65" alt="image" src="https://github.com/user-attachments/assets/c8e92891-ca2b-412c-8dbc-617876402ae1" />
           <img width="65" alt="image" src="https://github.com/user-attachments/assets/60989bc1-ed87-47f6-b7e6-12b45391809b" />
           <img width="65" alt="image" src="https://github.com/user-attachments/assets/8fcb8c9c-db17-4491-b352-e0caf43c4fdb" />
-          <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d6619fcd-2d51-4c2b-a740-852d69b90038" />
+          <img width="65"alt="image" src="https://github.com/user-attachments/assets/d6619fcd-2d51-4c2b-a740-852d69b90038" />
           <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--sonarqube.png"/>
         </p>
         <!-- Design & Methodologies -->
