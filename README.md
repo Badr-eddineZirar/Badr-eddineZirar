@@ -44,6 +44,7 @@ I enjoy creating applications and designing creative interfaces using tools like
           <img width="65" alt="image" src="https://github.com/user-attachments/assets/01017215-6668-47f6-85d6-7941fda72941" />
           <img width="65"  alt="image" src="https://github.com/user-attachments/assets/7b7b2045-301d-49cf-abc8-53030705d0e0" />
           <img width="65"  alt="image" src="https://github.com/user-attachments/assets/7dbe2464-a17f-4079-b51d-e757cbf5b08e" />
+          <img width="65" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
         </p>
         <!-- Markup & Styling -->
         <h3>Markup & Styling</h3>
@@ -102,6 +103,12 @@ I enjoy creating applications and designing creative interfaces using tools like
           <img width="65"alt="image" src="https://github.com/user-attachments/assets/d6619fcd-2d51-4c2b-a740-852d69b90038" />
           <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/logos--sonarqube.png"/>
         </p>
+        <!-- AI & LLMs -->
+        <h3>AI & LLMs</h3>
+        <p>
+       <img width="65" alt="Ollama" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/assets/ollama.png" />
+       <img width="90" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/qwen_logo.png"/>
+       </p>
         <!-- Design & Methodologies -->
         <h3>Design & Methodologies</h3>
         <p>
