@@ -107,7 +107,7 @@ I enjoy creating applications and designing creative interfaces using tools like
         <h3>AI & LLMs</h3>
         <p>
         <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/ollama_logo.png"/>
-       <img width="90" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/qwen_logo.png"/>
+       <img width="90" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/qwen_logo (1).png"/>
        </p>
         <!-- Design & Methodologies -->
         <h3>Design & Methodologies</h3>
