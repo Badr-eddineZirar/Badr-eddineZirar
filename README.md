@@ -11,8 +11,7 @@
 </a>
 
 <h3 align="center">👨‍💻 About me:</h3>
-<p align="center">I am a final-year Software Engineering student from Morocco, building robust backends with Java/Spring & PHP/Symfony and dynamic frontends with React.  
-I enjoy creating applications and designing creative interfaces using tools like Figma.
+<p align="center">I am a Software Engineering graduate from EHEI Morocco, specialized in full-stack development, software architecture, and best practices. I recently completed my final year internship at Bank Al-Maghrib, where I worked on real-world enterprise systems. I am currently seeking a professional opportunity to contribute to innovative and impactful projects.
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -107,8 +106,13 @@ I enjoy creating applications and designing creative interfaces using tools like
         <h3>AI & LLMs</h3>
         <p>
         <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/ollama_logo.png"/>
-       <img width="90" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/qwen_logo (1).png"/>
+       <img width="90" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/qwen_logo_g.png"/>
        </p>
+         <h3>Design Patterns & Best Practices</h3>
+          <p>
+          <img width="110" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/solid_principles__1_-removebg-preview.png"/>
+          <img width="110" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/design_patten-removebg-preview.png"/>
+          </p>
         <!-- Design & Methodologies -->
         <h3>Design & Methodologies</h3>
         <p>
@@ -141,6 +145,8 @@ I enjoy creating applications and designing creative interfaces using tools like
          <img width="100" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/apidog.png" />
       </p>
       <img width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDN3azB1ZjgwN3QyeXJxYXJmcW5yNHk3OWk3czJrbjN1NGFyamc4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"/>
+      <br><br>
+      <img width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF5eGFyNTRhdGYyeG9rMTJpaXN0NDhnOGl6Y3RxZWpnZXE3cDl2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"/>
       <br><br>
       <img width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGMyOG83M3V6NzRybGEzZ3A2ZGJscXpnampzaWk3ZTZpajU5bXFsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif"/>
     </td>
