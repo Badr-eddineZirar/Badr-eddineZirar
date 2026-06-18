@@ -1,8 +1,10 @@
-![logo](https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/Background_badr.png)
+![logo](https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/Background_bader_1.png)
 
 <div align="center">
   <h1>Hi 👋, I'm Badr-eddine Zirar</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=&color=0A8C39&repeat=false&random=true&width=435&lines=A+passionate+Web+Developer+from+Morocco" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=&color=0A8C39&repeat=false&random=true&width=435&lines=A+Full+Stack+Developer+from+Morocco" alt="Typing SVG" />
+</a>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco Flag" width="60" height="40">
 </p>
