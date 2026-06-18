@@ -106,8 +106,8 @@
         <!-- AI & LLMs -->
         <h3>AI & LLMs</h3>
         <p>
-        <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/ollama_logo.png"/>
-        <img width="90" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/qwen_logo_g.png"/>
+       <img width="80" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/ollama_logo.png">
+       <img width="90" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/qwen_logo_g.png">
        </p>
          <h3>Design Patterns & Best Practices</h3>
           <p>
@@ -135,7 +135,7 @@
         <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
         <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
         <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
-        <img width="70" src="https://raw.githubusercontent.com/Badr-eddineZirar/Badr-eddineZirar/main/pycharm_logo.png"/>
+        <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
       </p>
        <p>
          <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
